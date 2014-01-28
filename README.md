@@ -3,8 +3,6 @@ docker-weinre
 
 A [Docker](http://www.docker.io/) container for the [weinre debugger](https://github.com/apache/cordova-weinre) from [Apache Cordova](http://cordova.apache.org/).
 
-![npm](https://nodei.co/npm/weinre.png?downloads=true)
-
 ![weinre](http://i.imgur.com/9Bg4LzI.png)
 
 ### Install
