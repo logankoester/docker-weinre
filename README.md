@@ -14,7 +14,7 @@ $ docker pull logankoester/weinre
 ### Run
 
 ```bash
-$ docker run -p 8080 -i -d logankoester/weinre --boundHost -all-
+$ docker run -p 8080:8080 -i -d logankoester/weinre –boundHost -all-
 ```
 
 ## License
